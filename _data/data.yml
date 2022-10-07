@@ -7,47 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chiara Forresi
+    tagline: Phd Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: forresi.chiara@gmail.com
+    phone: +39 3296450649
+    timezone: Italy Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: www.unibo.it/sitoweb/chiara.forresi #do not add http://
+    linkedin: chiara-forresi-6b3839117
+    xing: #
+    github: ChiaraFor96
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab: chiara.forresi
+    bitbucket: ChiaraFor96
+    twitter: #
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Italian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: B2 (Certified by University of Bologna)
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: A1
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Racket sports (Tennis, Beach Tennis, Padel)
           link:
 
         - item: Cooking
@@ -56,103 +53,58 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a 25-year-old PhD student, based in Cesena. I am passionate about information technology
+      and in particular in the world of data. My main research interests are about techniques and
+      methodologies to support data management and analysis in big data ecosystems.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - phd: PhD in Data Science and Computation
+        university: University of Bologna, Cesena, Italy
+        time: 2020 - today
+      - degree: MSc in Engineering and Computer Science
+        university: University of Bologna, Cesena, Italy
+        time: 2018 - 2020
+        details: #|
+          Thesis: "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
+          Vote: 110/110L
+      - degree: BSc in Engineering and Computer Science
+        university: University of Bologna, Cesena, Italy
+        time: 2015 - 2018
+        details:
+          Thesis: "Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"
+          Vote: 110/110L
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 150-hour part time
+        time: 2019
+        company: ERGO
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Switchboard activity and support to the Didactic Secretariat
+      - role: Assistant at University study room
+        time: 2016 - 2018
+        company: Associazione S.P.R.I.Te., Cesena
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Assistance for video writing, printing and web browsing. Room surveillance.
+      - role: Teacher and Tutor Digital Literacy Courses
+        time: 2016 - 2018
+        company: Associazione S.P.R.I.Te., Cesena
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          Teaching and tutoring activities in first and second level digital literacy courses as part of the "Pane e Internet" project promoted by Emilia Romagna Region.
+      - role: Curricular internship
+        time: 2017
+        company: University of Bologna Via Sacchi, 3, 47521 Cesena (Italy)
+        details: |
+          As part of the research project Modeling Social Behavior from Trajectory Data (at the Business Intelligence Group), enriching spatial trajectories with semantic information coming from open data and commercial data of third parties. In this regard, the internship aimed at understanding and managing spatial data and the technological stack required by interaction with external services and by integration with the components and technologies already present in the research project and the deepening of the same. 
+          The combination of these data was then loaded into a single database and integrated into the project's ontology.
+#projects:
+#    title: Projects
+#    intro: >
+    #assignments:
+    #  - title: Velocity
+    #    link: "#hook"
+    #    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -161,42 +113,28 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Cost-based Optimization of Multistore Query Plans
+        link: "https://link.springer.com/article/10.1007/s10796-022-10320-2"
+        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        journal: Inf Syst Front (2022)
 
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - Soft skills: good listener, comprehension of problem, communications, synthesis and mediation skills. Sense of responsibility, leadership, coordination of human resources, good team-leading.
+      - Professional skills
+        - Computer Programming: Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
+        - Programming Languages: Java, Scala, Python, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++
+        - Protocols, APIs & Frameworks: TCP, UDP, HTTP, DNS, JSON, REST, Spark
+        - Databases: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra
+        - Development techniques: Git;
+        - Build systems: Gradle, Maven;
+        - CI: TravisCI
+        - Operating Systems: Windows, Linux and Mac OS installation and configuration, good command of their applications.
+      - Hardware: systems assembling, good knowledge of Internet and computer network
+      - Markup languages: XML, HTML, Markdown
+      - Driving license: "B"
+ #   toolset:
+     # - name: Python & Django
+  #      level: 98%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
