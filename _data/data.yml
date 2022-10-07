@@ -69,13 +69,13 @@ education:
         time: 2018 - 2020
         details: |
           Thesis
-          - Thesis "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
+          - [Thesis](https://amslaurea.unibo.it/21411/) "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
           - Vote 110/110L
       - degree: BSc in Engineering and Computer Science
         university: University of Bologna, Cesena, Italy
         time: 2015 - 2018
         details: |
-          Thesis "Progettazione di una piattaforma per l'analisi dei dati di traiettoria:_ un caso di studi sui dati di navigazione
+          [Thesis](https://amslaurea.unibo.it/16144/) "Progettazione di una piattaforma per l'analisi dei dati di traiettoria:_ un caso di studi sui dati di navigazione
           Vote 110/110L
       - degree: High school diploma
         university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
@@ -88,7 +88,7 @@ experiences:
       - role: PhD Student
         time: 2020 - today
         details:
-          PhD student in field of data management and analysis in big data ecosystems, inside the Business Intelligence Group (BIG) of the University of Bologna.
+          PhD student in field of data management and analysis in big data ecosystems, inside the [Business Intelligence Group (BIG)](https://big.csr.unibo.it/) of the University of Bologna.
         company: University of Bologna, Cesena, Italy
       - role: Reviewer
         time: 2022 - today
