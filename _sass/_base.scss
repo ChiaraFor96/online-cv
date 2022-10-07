@@ -250,9 +250,13 @@ p {
     overflow: hidden;
   }
   .level-title {
+    display: inline;
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
+  }
+  .level-info {
+    display: inline;
   }
   .level-bar {
     height: 12px;

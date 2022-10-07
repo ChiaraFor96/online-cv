@@ -13,16 +13,16 @@ sidebar:
 
     # Sidebar links
     email: forresi.chiara@gmail.com
-    phone: +39 3296450649
-    timezone: Italy Timezone
+    phone: #+39 3296450649
+    timezone: #Italy Timezone
     citizenship:
     website: www.unibo.it/sitoweb/chiara.forresi #do not add http://
     linkedin: chiara-forresi-6b3839117
     xing: #
     github: ChiaraFor96
     telegram: # add your nickname without '@' sign
-    gitlab: chiara.forresi
-    bitbucket: ChiaraFor96
+    gitlab: #chiara.forresi
+    bitbucket: #ChiaraFor96
     twitter: #
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: B2 (Certified by University of Bologna)
+          level: B2 - Certified by University of Bologna
 
         - idiom: French
           level: A1
@@ -56,27 +56,44 @@ career-profile:
       I am a 25-year-old PhD student, based in Cesena. I am passionate about information technology
       and in particular in the world of data. My main research interests are about techniques and
       methodologies to support data management and analysis in big data ecosystems.
+      __Fields of interests__: data analytics, business intelligence, machine learning
+
 education:
     title: Education
     info:
-      - phd: PhD in Data Science and Computation
+      - degree: PhD in Data Science and Computation
         university: University of Bologna, Cesena, Italy
         time: 2020 - today
       - degree: MSc in Engineering and Computer Science
         university: University of Bologna, Cesena, Italy
         time: 2018 - 2020
-        details: #|
-          Thesis: "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
-          Vote: 110/110L
+        details: |
+          Thesis
+          - Thesis "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
+          - Vote 110/110L
       - degree: BSc in Engineering and Computer Science
         university: University of Bologna, Cesena, Italy
         time: 2015 - 2018
-        details:
-          Thesis: "Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"
-          Vote: 110/110L
+        details: |
+          Thesis "Progettazione di una piattaforma per l'analisi dei dati di traiettoria:_ un caso di studi sui dati di navigazione
+          Vote 110/110L
+      - degree: High school diploma
+        university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
+        time: 2010 - 2015
+        details: | 
+          Vote 100/100
 experiences:
     title: Experiences
     info:
+      - role: PhD Student
+        time: 2020 - today
+        details:
+          PhD student in field of data management and analysis in big data ecosystems, inside the Business Intelligence Group (BIG) of the University of Bologna.
+        company: University of Bologna, Cesena, Italy
+      - role: Reviewer
+        time: 2022 - today
+        details:
+          I wrote reviews for peer-review conferences (SEBD 2022, ABIS 2022) and journals (DAWAK 2022).
       - role: 150-hour part time
         time: 2019
         company: ERGO
@@ -108,33 +125,46 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: #|
     papers:
       - title: Cost-based Optimization of Multistore Query Plans
         link: "https://link.springer.com/article/10.1007/s10796-022-10320-2"
         authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
-        journal: Inf Syst Front (2022)
-
+        conference: Information Systems Frontiers (2022)
+      - title: Optimizing Execution Plans in a Multistore
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-82472-3_11"
+        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        conference: Advances in Databases and Information Systems (ADBIS 2021)
+      - title: A dataspace-based framework for OLAP analyses in a high-variety multistore
+        link: "https://link.springer.com/article/10.1007/s00778-021-00682-5"
+        authors: Forresi, C., Gallinucci, E., Golfarelli M., Ben Hamadou, H.
+        conference: The VLDB Journal (2021)
+achievements:
+  title: Achievements
+  toolset: |
+    - On August 2021 I presented at ADBIS conference in Estonia my work "Optimizing Execution Plans in a Multistore".
+    - From February 2019 to 2020 I was the Tutor of the BS Engineering and Computer Science.
+    - During the Bachelor’s and Master’s Degree I played the role of Student Representative in the Degree Course Council and a member of the University Consult of Cesena.
+    - From October 2015 to 2020 I was an activist at the Student Association S.P.R.I.Te. of my degree course. From November 2016 to January 2019 I held the role of Secretary in the Board of this Association.
 skills:
-    title: Skills &amp; Proficiency
-      - Soft skills: good listener, comprehension of problem, communications, synthesis and mediation skills. Sense of responsibility, leadership, coordination of human resources, good team-leading.
-      - Professional skills
-        - Computer Programming: Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-        - Programming Languages: Java, Scala, Python, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++
-        - Protocols, APIs & Frameworks: TCP, UDP, HTTP, DNS, JSON, REST, Spark
-        - Databases: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra
-        - Development techniques: Git;
-        - Build systems: Gradle, Maven;
-        - CI: TravisCI
-        - Operating Systems: Windows, Linux and Mac OS installation and configuration, good command of their applications.
-      - Hardware: systems assembling, good knowledge of Internet and computer network
-      - Markup languages: XML, HTML, Markdown
-      - Driving license: "B"
- #   toolset:
-     # - name: Python & Django
-  #      level: 98%
+    title: Skills
+    toolset:
+      - name: Soft skills
+        info: good listener, comprehension of problem, communications, synthesis and mediation skills. Sense of responsibility, leadership, coordination of human resources, good team-leading.
+      - name: Professional skills
+        info: |
+            - __Data visualization tools__: Tableau, Power BI, Matplotlib, Seaborn, D3
+            - __Computer Programming__: Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
+            - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++
+            - __Protocols, APIs & Frameworks__: TCP, UDP, HTTP, DNS, JSON, REST, Spark, Kafka
+            - __Databases__: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra
+            - __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI
+            - __Operating Systems__: Windows, Linux and Mac OS installation and configuration, good command of their applications.
+      - name: Hardware
+        info: systems assembling, good knowledge of Internet and computer network
+      - name: Markup languages
+        info: XML, HTML, Markdown
+      - name: Driving license
+        info: "B"
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
