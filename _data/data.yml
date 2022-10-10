@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Chiara Forresi
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: forresi.chiara@gmail.com
     phone: #+39 3296450649
-    timezone: #Italy Timezone
+    timezone: Italy Timezone
     citizenship:
     website: www.unibo.it/sitoweb/chiara.forresi #do not add http://
     linkedin: chiara-forresi-6b3839117
@@ -46,7 +46,7 @@ sidebar:
       info:
         - item: Racket sports (Tennis, Beach Tennis, Padel)
           link:
-
+        - item: Get in touch with the nature
         - item: Cooking
           link:
 
@@ -56,6 +56,7 @@ career-profile:
       I am a 25-year-old PhD student, based in Cesena. I am passionate about information technology
       and in particular in the world of data. My main research interests are about techniques and
       methodologies to support data management and analysis in big data ecosystems.
+
       __Fields of interests__: data analytics, business intelligence, machine learning
 
 education:
@@ -68,28 +69,22 @@ education:
         university: University of Bologna, Cesena, Italy
         time: 2018 - 2020
         details: |
-          Thesis
-          - [Thesis](https://amslaurea.unibo.it/21411/) "Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"
-          - Vote 110/110L
+          - Thesis: ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/)
+          - Vote: 110/110L
       - degree: BSc in Engineering and Computer Science
         university: University of Bologna, Cesena, Italy
         time: 2015 - 2018
         details: |
-          [Thesis](https://amslaurea.unibo.it/16144/) "Progettazione di una piattaforma per l'analisi dei dati di traiettoria:_ un caso di studi sui dati di navigazione
-          Vote 110/110L
+          - Thesis: ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/)
+          - Vote: 110/110L
       - degree: High school diploma
         university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
         time: 2010 - 2015
         details: | 
-          Vote 100/100
+          Vote: 100/100
 experiences:
     title: Experiences
     info:
-      - role: PhD Student
-        time: 2020 - today
-        details:
-          PhD student in field of data management and analysis in big data ecosystems, inside the [Business Intelligence Group (BIG)](https://big.csr.unibo.it/) of the University of Bologna.
-        company: University of Bologna, Cesena, Italy
       - role: Reviewer
         time: 2022 - today
         details:
@@ -98,7 +93,7 @@ experiences:
         time: 2019
         company: ERGO
         details: |
-          Switchboard activity and support to the Didactic Secretariat
+          Switchboard activity and support to the Didactic Secretariat.
       - role: Assistant at University study room
         time: 2016 - 2018
         company: Associazione S.P.R.I.Te., Cesena
@@ -153,18 +148,18 @@ skills:
         info: good listener, comprehension of problem, communications, synthesis and mediation skills. Sense of responsibility, leadership, coordination of human resources, good team-leading.
       - name: Professional skills
         info: |
-            - __Data visualization tools__: Tableau, Power BI, Matplotlib, Seaborn, D3
+            - __Data visualization tools__: Tableau, Power BI, Matplotlib, Seaborn, D3.
             - __Computer Programming__: Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-            - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++
-            - __Protocols, APIs & Frameworks__: TCP, UDP, HTTP, DNS, JSON, REST, Spark, Kafka
-            - __Databases__: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra
-            - __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI
+            - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++.
+            - __Protocols, APIs & Frameworks__: TCP, UDP, HTTP, DNS, JSON, REST, Spark, Kafka.
+            - __Databases__: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra.
+            - __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
             - __Operating Systems__: Windows, Linux and Mac OS installation and configuration, good command of their applications.
       - name: Hardware
-        info: systems assembling, good knowledge of Internet and computer network
+        info: systems assembling, good knowledge of Internet and computer network.
       - name: Markup languages
-        info: XML, HTML, Markdown
+        info: XML, HTML, Markdown.
       - name: Driving license
-        info: "B"
+        info: B.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
