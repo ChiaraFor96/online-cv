@@ -148,17 +148,33 @@ skills:
         info: good listener, comprehension of problem, communications, synthesis and mediation skills. Sense of responsibility, leadership, coordination of human resources, good team-leading.
       - name: Professional skills
         info: |
-            - __Data visualization tools__: Tableau, Power BI, Matplotlib, Seaborn, D3.
-            - __Computer Programming__: Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-            - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, JavaScript, Node, Vue, C, C++.
-            - __Protocols, APIs & Frameworks__: TCP, UDP, HTTP, DNS, JSON, REST, Spark, Kafka.
-            - __Databases__: SQL, MySQL, Oracle, PostgreSQL, MongoDB, Cassandra.
-            - __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
+            - __Big Data management and analysis__:
+              - __Distributed filsystems__: HDFS.
+              - __Distributed databases__: MongoDB, Cassandra, HBase.
+              - __Distributed execution frameworks__: Spark.
+              - __Ecosystem Management__: Cloudera CDH.
+              - __System orchestration and administration__: Oozie, Hue.
+              - __Cloud platforms__: AWS
+            - __Business Intelligence and Data Mining__:
+              - __Conceptual modeling__: Indyco, StarUML.
+              - __OLAP anaysis and visualization tools__: Tableau, Matplotlib, Seaborn.
+              - __Data mining tools__: Weka, scikit-learn, MLlib.
+            - __Database Managment Systems:
+              - __Relational DBMSs__: SQL, MySQL, Oracle, PostgreSQL, Microsft Access, Microsoft SQL Server.
+              - __NoSQL DBMSs__: MongoDB, Cassandra, HBase.
+              - __GIS systems__: Oracle Spatial & Graph, PostGIS, GeoSpark, QGIS, Geoserver.
+            - __Computer Programming__: 
+              - Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
+              - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, C, C++, PLSQL, SPARQL, SQL.
+              - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
+            - __Web Development__: 
+              - __Web servers__: Apache Tomcat.
+              - __Content Managment Systems__: Joomla, Wordpress.
+              - __Charts and maps__: D3, OpenLayers
+              - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP.
+              - __ Markup languages__: XML, HTML, Markdown.
             - __Operating Systems__: Windows, Linux and Mac OS installation and configuration, good command of their applications.
-      - name: Hardware
-        info: systems assembling, good knowledge of Internet and computer network.
-      - name: Markup languages
-        info: XML, HTML, Markdown.
+            - __Hardware__: systems assembling, good knowledge of Internet and computer network.
       - name: Driving license
         info: B.
 footer: >
