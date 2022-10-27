@@ -159,7 +159,7 @@ skills:
               - __Conceptual modeling__: Indyco, StarUML.
               - __OLAP anaysis and visualization tools__: Tableau, Matplotlib, Seaborn.
               - __Data mining tools__: Weka, scikit-learn, MLlib.
-            - __Database Managment Systems:
+            - __Database Managment Systems__:
               - __Relational DBMSs__: SQL, MySQL, Oracle, PostgreSQL, Microsft Access, Microsoft SQL Server.
               - __NoSQL DBMSs__: MongoDB, Cassandra, HBase.
               - __GIS systems__: Oracle Spatial & Graph, PostGIS, GeoSpark, QGIS, Geoserver.
@@ -172,7 +172,7 @@ skills:
               - __Content Managment Systems__: Joomla, Wordpress.
               - __Charts and maps__: D3, OpenLayers
               - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP.
-              - __ Markup languages__: XML, HTML, Markdown.
+              - __Markup languages__: XML, HTML, Markdown.
             - __Operating Systems__: Windows, Linux and Mac OS installation and configuration, good command of their applications.
             - __Hardware__: systems assembling, good knowledge of Internet and computer network.
       - name: Driving license
