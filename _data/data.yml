@@ -154,7 +154,7 @@ skills:
               - __Distributed execution frameworks__: Spark.
               - __Ecosystem Management__: Cloudera CDH.
               - __System orchestration and administration__: Oozie, Hue.
-              - __Cloud platforms__: AWS
+              - __Cloud platforms__: AWS.
             - __Business Intelligence and Data Mining__:
               - __Conceptual modeling__: Indyco, StarUML.
               - __OLAP anaysis and visualization tools__: Tableau, Matplotlib, Seaborn.
@@ -170,7 +170,7 @@ skills:
             - __Web Development__: 
               - __Web servers__: Apache Tomcat.
               - __Content Managment Systems__: Joomla, Wordpress.
-              - __Charts and maps__: D3, OpenLayers
+              - __Charts and maps__: D3, OpenLayers.
               - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP.
               - __Markup languages__: XML, HTML, Markdown.
             - __Operating Systems__: Windows, Linux and Mac OS installation and configuration, good command of their applications.
