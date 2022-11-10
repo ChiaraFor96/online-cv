@@ -70,13 +70,13 @@ education:
         time: 2018 - 2020
         details: |
           - Thesis: ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/)
-          - Vote: 110/110L
+          - Vote: 110/110 cum Laude
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena, Italy
         time: 2015 - 2018
         details: |
           - Thesis: ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/)
-          - Vote: 110/110L
+          - Vote: 110/110 cum Laude
       - degree: High school diploma
         university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
         time: 2010 - 2015
@@ -85,7 +85,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lecturer of ["NoSQL Databases"](https://www.fitstic.it/it/b/4838/tecnicosuperioreperlosvilupposoftwarewebecloud)
+      - role: [Lecturer of "NoSQL Databases"](https://www.fitstic.it/it/b/4838/tecnicosuperioreperlosvilupposoftwarewebecloud)
         time: January 2023 - March 2023
         company: [FITSTIC](https://www.fitstic.it/)
       - role: [Teaching tutor of "LABORATORIO DI INGEGNERIA ELETTRONICA"](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/482467)
