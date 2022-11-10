@@ -85,10 +85,10 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lecturer of "NoSQL Databases"
+      - role: Lecturer of ["NoSQL Databases"](https://www.fitstic.it/it/b/4838/tecnicosuperioreperlosvilupposoftwarewebecloud)
         time: January 2023 - March 2023
         company: [FITSTIC](https://www.fitstic.it/)
-      - role: Teaching tutor of "LABORATORIO DI INGEGNERIA ELETTRONICA"
+      - role: [Teaching tutor of "LABORATORIO DI INGEGNERIA ELETTRONICA"](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/482467)
         time: Accademic Year 2022/23
         company: University of Bologna
         details: Teaching tutor of a course of principles of informatic for the bachelor's degree in electronic engineering.
