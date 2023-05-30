@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a 25-year-old PhD student, based in Cesena. I am passionate about information technology
+      I am a 26-year-old PhD student, based in Cesena. I am passionate about information technology
       and in particular in the world of data. My main research interests are about techniques and
       methodologies to support data management and analysis in big data ecosystems.
 
@@ -95,7 +95,7 @@ experiences:
       - role: Reviewer
         time: 2022 - today
         details:
-          I wrote reviews for peer-review conferences (SEBD 2022, ADBIS 2022, DAWAK 2022).
+          I wrote reviews for peer-review conferences (SEBD 2022, ADBIS 2022, DAWAK 2022/23, DOLAP 2023).
       - role: 150-hour part time
         time: 2019
         company: ERGO
