@@ -129,6 +129,14 @@ publications:
     title: Publications
     intro: #|
     papers:
+      - title: Streaming Approach to Schema Profiling
+        link: TBA
+        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        conference: Advances in Databases and Information Systems (ADBIS 2023)
+      - title: On the optimization of query plans in multistores (4m)
+        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        link: TBA
+        conference: 31st Symposium on Advanced Database Systems (SEBD 2023)
       - title: Cost-based Optimization of Multistore Query Plans
         link: "https://link.springer.com/article/10.1007/s10796-022-10320-2"
         authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
@@ -144,6 +152,7 @@ publications:
 achievements:
   title: Achievements
   toolset: |
+    - On July 2023 I presented at SEBD conference in Galzigliano Terme (Padua) my work "On the optimization of query plans in multistores".
     - On August 2021 I presented at ADBIS conference in Estonia my work "Optimizing Execution Plans in a Multistore".
     - From February 2019 to 2020 I was the Tutor of the BS Computer Science and Engineering.
     - During the Bachelor’s and Master’s Degree I played the role of Student Representative in the Degree Course Council and a member of the University Consult of Cesena.
