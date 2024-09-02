@@ -49,6 +49,8 @@ sidebar:
         - item: Get in touch with the nature
         - item: Cooking
           link:
+        - item: Indipendent music
+          link:
 
 career-profile:
     title: Career Profile
@@ -85,11 +87,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Researcher [BIG @UNIBO](https://big.csr.unibo.it/)
+      - role: Researcher BIG @UNIBO
         time: November 2020 - today
         company: University of Bologna Cesena, Italy
         details:
-          In my role within the Business Intelligence Group, 
+          In my role within the [Business Intelligence Group](https://big.csr.unibo.it/), 
           I focused on querying heterogeneous static and streaming data within 
           a data analysis platform. 
           This involved the entire process, from the formalization of concepts to the implementation 
@@ -107,7 +109,9 @@ experiences:
         company: FITSTIC
       - role: Visiting Researcher
         time: September 2023 - December 2023 (3 months)
-        company: Vrije Universiteit Brussel (VUB) @[SOFT LAB](https://soft.vub.ac.be/)
+        company: Vrije Universiteit Brussel (VUB) @SOFT LAB
+        details: |
+          I worked on the optimization of query plans in multistores from a theoretical perspective with the Big Data Processing (BDP) group, under the supervision of Prof. [Bas Ketsman](https://www.basketsman.com/).
       - role: Teaching tutor of "LABORATORIO DI INGEGNERIA ELETTRONICA"
         time: A.Y. 2022/23
         company: University of Bologna
@@ -183,8 +187,7 @@ publications:
 achievements:
   title: Achievements
   toolset: |
-    - From September 2023 to December 2023 I was a Visiting Researcher at the Vrije Universiteit Brussel (VUB) in Belgium.
-      I worked on the optimization of query plans in multistores from a theoretical perspective with the Big Data Processing (BDP) group, under the supervision of Prof. [Bas Ketsman](https://www.basketsman.com/).
+    - From August 22 to 24, I collaborate as volunteer at [Transumare Festival](https://www.transumarefest.com/) in Roseto degli Abruzzi, near my hometown.
     - On September 2023 I presented at ADBIS conference at the Universitat Politècnica de Catalunya (UPC) in Barcelona my work "Streaming Approach to Schema Profiling".
     - On July 2023 I presented at SEBD conference in Galzigliano Terme (Padua) my work "On the optimization of query plans in multistores".
     - On August 2021 I presented at ADBIS conference in Estonia my work "Optimizing Execution Plans in a Multistore".
