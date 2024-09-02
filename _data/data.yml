@@ -85,6 +85,19 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Researcher [BIG @UNIBO](https://big.csr.unibo.it/)
+        time: November 2020 - today
+        company: University of Bologna Cesena, Italy
+        details:
+          In my role within the Business Intelligence Group, 
+          I focused on querying heterogeneous static and streaming data within 
+          a data analysis platform. 
+          This involved the entire process, from the formalization of concepts to the implementation 
+          and rigorous testing of the proposed solutions.
+          Additionally, I contributed to the development of a real-time data platform 
+          for monitoring and analyzing the brown marmorated 
+          stink bug population in Northern Italy, accessible at [Cimice.net](https://big.csr.unibo.it/projects/cimice/monitoring.php).
+          My work also included developing a big data platform leveraging Docker Swarm.
       - role: Teaching tutor of "LABORATORIO DI INFORMATICA"
         time: A.Y. 2023/24
         company: University of Bologna
@@ -139,25 +152,33 @@ publications:
     title: Publications
     intro: #|
     papers:
+      - title: A data platform for real-time monitoring and analysis of the brown marmorated stink bug in Northern Italy
+        link: https://www.sciencedirect.com/science/article/pii/S1574954124002553
+        authors: Forresi C., Gallinucci E., Golfarelli M., Maistrello L., Preti M., Vaccari G.
+        conference: Ecological Informatics (2024)
+      - title: Colossal Trajectory Mining
+        link: https://ceur-ws.org/Vol-3741/paper03.pdf
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M., Pasini M.
+        conference: 32st Symposium on Advanced Database Systems (SEBD 2024)
       - title: Streaming Approach to Schema Profiling
         link: https://link.springer.com/chapter/10.1007/978-3-031-42941-5_19
-        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
         conference: Advances in Databases and Information Systems (ADBIS 2023)
       - title: On the optimization of query plans in multistores
-        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
         link: https://ceur-ws.org/Vol-3478/paper05.pdf
         conference: 31st Symposium on Advanced Database Systems (SEBD 2023)
       - title: Cost-based Optimization of Multistore Query Plans
         link: "https://link.springer.com/article/10.1007/s10796-022-10320-2"
-        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
         conference: Information Systems Frontiers (2022)
       - title: Optimizing Execution Plans in a Multistore
         link: "https://link.springer.com/chapter/10.1007/978-3-030-82472-3_11"
-        authors: Forresi, C., Francia, M., Gallinucci, E., Golfarelli M.
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
         conference: Advances in Databases and Information Systems (ADBIS 2021)
       - title: A dataspace-based framework for OLAP analyses in a high-variety multistore
         link: "https://link.springer.com/article/10.1007/s00778-021-00682-5"
-        authors: Forresi, C., Gallinucci, E., Golfarelli M., Ben Hamadou, H.
+        authors: Forresi C., Gallinucci E., Golfarelli M., Ben Hamadou H.
         conference: The VLDB Journal (2021)
 achievements:
   title: Achievements
