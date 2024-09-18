@@ -79,11 +79,11 @@ education:
         details: |
           - Thesis: ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/)
           - Vote: 110/110 cum Laude
-      - degree: High school diploma
-        university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
-        time: 2010 - 2015
-        details: | 
-          Vote: 100/100
+#      - degree: High school diploma
+#        university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
+#        time: 2010 - 2015
+#        details: | 
+#          Vote: 100/100
           
 experiences:
     title: Experiences
