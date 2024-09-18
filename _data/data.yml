@@ -59,7 +59,7 @@ career-profile:
       and in particular in the world of data. My main research interests are about techniques and
       methodologies to support data management and analysis in big data ecosystems.
 
-      __Fields of interests__: data analytics, business intelligence, machine learning
+      __Fields of interests__: Data Engineering, Data Analytics, Business Intelligence
 
 education:
     title: Education
@@ -84,6 +84,7 @@ education:
         time: 2010 - 2015
         details: | 
           Vote: 100/100
+          
 experiences:
     title: Experiences
     info:
@@ -94,8 +95,9 @@ experiences:
           In my role within the [Business Intelligence Group](https://big.csr.unibo.it/), 
           I focused on querying heterogeneous static and streaming data within 
           a data analysis platform. 
-          This involved the entire process, from the formalization of concepts to the implementation 
-          and rigorous testing of the proposed solutions.
+          This involved the entire process, including the formalization of concepts, 
+          the definition of benchmark datasets, 
+          the implementation of solutions, and rigorous testing to evaluate their effectiveness.
           Additionally, I contributed to the development of a real-time data platform 
           for monitoring and analyzing the brown marmorated 
           stink bug population in Northern Italy, accessible at [Cimice.net](https://big.csr.unibo.it/projects/cimice/monitoring.php).
@@ -142,8 +144,10 @@ experiences:
         time: 2017
         company: University of Bologna Via Sacchi, 3, 47521 Cesena (Italy)
         details: |
-          As part of the research project Modeling Social Behavior from Trajectory Data (at the Business Intelligence Group), enriching spatial trajectories with semantic information coming from open data and commercial data of third parties. In this regard, the internship aimed at understanding and managing spatial data and the technological stack required by interaction with external services and by integration with the components and technologies already present in the research project and the deepening of the same. 
-          The combination of these data was then loaded into a single database and integrated into the project's ontology.
+          Internship in the Modeling Social Behavior from Trajectory Data project at the Business Intelligence Group, 
+          focused on enriching spatial trajectories with semantic data from open and third-party sources. 
+          Responsibilities included managing spatial data, working with external services, integrating existing project technologies, and combining data into a unified database integrated with the project's ontology.
+
 #projects:
 #    title: Projects
 #    intro: >
