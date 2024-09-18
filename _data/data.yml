@@ -67,18 +67,12 @@ education:
       - degree: PhD in Data Science and Computation
         university: University of Bologna, Cesena, Italy
         time: 2020 - today
-      - degree: MSc in Computer Science and Engineering
+      - degree: MSc in Computer Science and Engineering (110/110 cum Laude)
         university: University of Bologna, Cesena, Italy
         time: 2018 - 2020
-        details: |
-          - Thesis: ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/)
-          - Vote: 110/110 cum Laude
       - degree: BSc in Computer Science and Engineering
-        university: University of Bologna, Cesena, Italy
+        university: University of Bologna, Cesena, Italy (110/110 cum Laude)
         time: 2015 - 2018
-        details: |
-          - Thesis: ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/)
-          - Vote: 110/110 cum Laude
 #      - degree: High school diploma
 #        university: I.T.I.S. “Vincenzo Cerulli”, Giulianova, Italy
 #        time: 2010 - 2015
@@ -229,6 +223,8 @@ achievements:
     - On August 2021 I presented at ADBIS conference in Estonia my work "Optimizing Execution Plans in a Multistore".
     - From February 2019 to 2020 I was the Tutor of the BS Computer Science and Engineering.
     - During the Bachelor’s and Master’s Degree I played the role of Student Representative in the Degree Course Council and a member of the University Consult of Cesena.
+    - In October 2020 I got the Master’s Degree in Computer Science and Engineering with the thesis ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/).
+    - In July 2018 I got the Bachelor’s Degree in Computer Science and Engineering with the thesis ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/).
     - From October 2015 to 2020 I was an activist at the Student Association S.P.R.I.Te. of my degree course. From November 2016 to January 2019 I held the role of Secretary in the Board of this Association.
 
 footer: >
