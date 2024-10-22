@@ -121,8 +121,9 @@ experiences:
         time: 2017
         company: University of Bologna Cesena, Italy
         details: |
-# Internship in the Modeling Social Behavior from Trajectory Data project at the [Business Intelligence Group](https://big.csr.unibo.it/), 
           Focused on enriching spatial trajectories with semantic data from open and third-party sources. 
+
+# Internship in the Modeling Social Behavior from Trajectory Data project at the [Business Intelligence Group](https://big.csr.unibo.it/), 
 # Responsibilities included managing spatial data, working with external services, integrating existing project technologies, and combining data into a unified database integrated with the project's ontology.
 
 #projects:
@@ -206,15 +207,15 @@ publications:
 achievements:
   title: Achievements
   toolset: |
-    - On August 2024, I collaborated as volunteer at [Transumare Festival](https://www.transumarefest.com/) in Roseto degli Abruzzi, near my hometown.
-    - On September 2023 I presented at ADBIS conference at the Universitat Politècnica de Catalunya (UPC) in Barcelona my work "Streaming Approach to Schema Profiling".
-    - On July 2023 I presented at SEBD conference in Galzigliano Terme (Padua) my work "On the optimization of query plans in multistores".
-    - On August 2021 I presented at ADBIS conference in Estonia my work "Optimizing Execution Plans in a Multistore".
-    - From February 2019 to 2020 I was the Tutor of the BS Computer Science and Engineering.
-    - During the Bachelor’s and Master’s Degree I played the role of Student Representative in the Degree Course Council and a member of the University Consult of Cesena.
-    - In October 2020 I got the Master’s Degree in Computer Science and Engineering with the thesis ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/).
-    - In July 2018 I got the Bachelor’s Degree in Computer Science and Engineering with the thesis ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/).
-    - From October 2015 to 2020 I was an activist at the Student Association S.P.R.I.Te. of my degree course. From November 2016 to January 2019 I held the role of Secretary in the Board of this Association.
+    - On August 2024, volunteered at the [Transumare Festival](https://www.transumarefest.com/).
+    - On September 2023, presented "Streaming Approach to Schema Profiling" at ADBIS conference, Barcelona.
+    - On July 2023, presented "On the optimization of query plans in multistores" at SEBD conference, Padua.
+    - On August 2021, presented "Optimizing Execution Plans in a Multistore" at ADBIS conference, Estonia.
+    - During the PhD, MS and BS, acted as Student Representative on the Degree Course Council.
+    - From February 2019 to 2020, served as Tutor of the BS Computer Science and Engineering.
+    - In October 2020, earned a Master’s Degree in Computer Science and Engineering; thesis: ["Un framework per l'analisi di big data con elevata eterogeneità all'interno di multistore"](https://amslaurea.unibo.it/21411/).
+    - In July 2018, earned a Bachelor’s Degree in Computer Science and Engineering; thesis: ["Progettazione di una piattaforma per l'analisi dei dati di traiettoria: un caso di studi sui dati di navigazione"](https://amslaurea.unibo.it/16144/).
+    - From October 2015 to 2020, was an active member of Student Association S.P.R.I.Te., serving as Secretary from November 2016 to January 2019.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
