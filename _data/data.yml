@@ -55,10 +55,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a 27-year-old PhD student, based in Cesena. I am passionate about information technology
-      and in particular in the world of data. My main research interests are about techniques and
-      methodologies to support data management and analysis in big data ecosystems.
-
+      27-year-old PhD candidate focused on data management and analysis in big data ecosystems, 
+      with a strong passion for information technology and innovative data solutions.
+      
       __Fields of interests__: Data Engineering, Data Analytics, Business Intelligence
 
 education:
@@ -86,36 +85,28 @@ experiences:
         time: November 2020 - today
         company: University of Bologna Cesena, Italy
         details:
-          In my role within the [Business Intelligence Group](https://big.csr.unibo.it/), 
+          At the [Business Intelligence Group](https://big.csr.unibo.it/), 
           I focused on querying heterogeneous static and streaming data within 
           a data analysis platform. 
           This involved the entire process, including the formalization of concepts, 
           the definition of benchmark datasets, 
           the implementation of solutions, and rigorous testing to evaluate their effectiveness.
-          Additionally, I contributed to the development of a real-time data platform 
+          I also contributed to a a real-time data platform 
           for monitoring and analyzing the brown marmorated 
           stink bug population in Northern Italy, accessible at [Cimice.net](https://big.csr.unibo.it/projects/cimice/monitoring.php).
-          My work also included developing a big data platform leveraging Docker Swarm.
-      - role: Teaching tutor of "LABORATORIO DI INFORMATICA"
-        time: A.Y. 2023/24
+          My work also included developing and maintaining a big data platform leveraging Docker Swarm.
+      - role: Teaching tutor of Principles of Informatic
+        time: A.Y. 2022/23 and 2023/24
         company: University of Bologna
-        details: Teaching tutor of a course of [principles of informatic](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/493416) for the bachelor's degree in electronic engineering.
       - role: Lecturer of "NoSQL Databases"
-        time: April 2024 - May 2024
+        time: January 2023 - March 2023 and April 2024 - May 2024
         company: FITSTIC
       - role: Visiting Researcher
         time: September 2023 - December 2023 (3 months)
         company: Vrije Universiteit Brussel (VUB) @SOFT LAB
         details: |
-          I worked on the optimization of query plans in multistores from a theoretical perspective with the Big Data Processing (BDP) group, under the supervision of Prof. [Bas Ketsman](https://www.basketsman.com/).
-      - role: Teaching tutor of "LABORATORIO DI INGEGNERIA ELETTRONICA"
-        time: A.Y. 2022/23
-        company: University of Bologna
-        details: Teaching tutor of a course of [principles of informatic](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/482467) for the bachelor's degree in electronic engineering.
-      - role: Lecturer of "NoSQL Databases"
-        time: January 2023 - March 2023
-        company: FITSTIC
-      - role: Reviewer for peer-review conferences (SEBD 2022, ADBIS 2022, DAWAK 2022/23, DOLAP 2023)
+          I optimized query plans in multistores from a theoretical perspective with the Big Data Processing (BDP) group, under the supervision of Prof. [Bas Ketsman](https://www.basketsman.com/).
+      - role: Reviewer for peer-review conferences (SEBD 2022, ADBIS 2022, DAWAK 2022/23, DOLAP 2023) and paper (Information Systems)
         time: 2022 - today
       - role: 150-hour part time (Switchboard activity and support to the Didactic Secretariat)
         time: 2019
@@ -123,18 +114,16 @@ experiences:
       - role: Assistant at University study room
         time: 2016 - 2018
         company: Associazione S.P.R.I.Te., Cesena
-      - role: Teacher and Tutor of Digital Literacy Courses
+      - role: Teacher and Tutor of Digital Literacy Courses (Pane e Internet project promoted by Emilia Romagna Region)
         time: 2016 - 2018
         company: Associazione S.P.R.I.Te., Cesena
-        details: |
-          Teaching and tutoring activities in first and second level digital literacy courses as part of the "Pane e Internet" project promoted by Emilia Romagna Region.
       - role: Curricular internship
         time: 2017
-        company: University of Bologna Via Sacchi, 3, 47521 Cesena (Italy)
+        company: University of Bologna Cesena, Italy
         details: |
-          Internship in the Modeling Social Behavior from Trajectory Data project at the Business Intelligence Group, 
-          focused on enriching spatial trajectories with semantic data from open and third-party sources. 
-          Responsibilities included managing spatial data, working with external services, integrating existing project technologies, and combining data into a unified database integrated with the project's ontology.
+# Internship in the Modeling Social Behavior from Trajectory Data project at the [Business Intelligence Group](https://big.csr.unibo.it/), 
+          Focused on enriching spatial trajectories with semantic data from open and third-party sources. 
+# Responsibilities included managing spatial data, working with external services, integrating existing project technologies, and combining data into a unified database integrated with the project's ontology.
 
 #projects:
 #    title: Projects
@@ -164,12 +153,12 @@ skills:
               - __OLAP anaysis and visualization tools__: Tableau, Matplotlib, Seaborn, PowerBI.
               - __Data mining tools__: Weka, scikit-learn, MLlib.
             - __Database Managment Systems__:
-              - __Relational DBMSs__: SQL, MySQL, Oracle, PostgreSQL, Microsft Access, Microsoft SQL Server.
+              - __Relational DBMSs__: Oracle, PostgreSQL.
               - __NoSQL DBMSs__: MongoDB, Cassandra, HBase, Redis, Neo4J.
               - __GIS systems__: Oracle Spatial & Graph, PostGIS, GeoSpark, QGIS, Geoserver.
             - __Computer Programming__: 
               - Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-              - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C#, Prolog, C, C++, PLSQL, SPARQL, SQL.
+              - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C, C#, PLSQL, SPARQL, SQL.
               - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
             - __Web Development__: 
               - __Web servers__: Apache Tomcat, NGNIX.
