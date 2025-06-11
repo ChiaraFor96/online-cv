@@ -55,17 +55,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      27-year-old PhD candidate focused on data management and analysis in big data ecosystems, 
+      I am currently working as a Data Engineer at Agile Lab while awaiting the defense of my PhD thesis. 
+      I specialize in data management and analysis in big data ecosystems, 
       with a strong passion for information technology and innovative data solutions.
       
-      __Fields of interests__: Data Engineering, Data Analytics, Business Intelligence
+      __Fields of interest__: Data Engineering, Data Analytics, Business Intelligence
 
 education:
     title: Education
     info:
       - degree: PhD in Data Science and Computation
         university: University of Bologna, Cesena, Italy
-        time: 2020 - today
+        time: 2020 - 2025
       - degree: MSc in Computer Science and Engineering (110/110 cum Laude)
         university: University of Bologna, Cesena, Italy
         time: 2018 - 2020
@@ -81,8 +82,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Data Engineer
+        time: March 2025 - today
+        company: Agile Lab
       - role: Researcher BIG @UNIBO
-        time: November 2020 - today
+        time: November 2020 - January 2025
         company: University of Bologna Cesena, Italy
         details:
           At the [Business Intelligence Group](https://big.csr.unibo.it/), 
@@ -176,6 +180,10 @@ publications:
     title: Publications
     intro: #|
     papers:
+      - title: ASSO: the Automated Schemaless Stream Overseer
+        link: https://openproceedings.org/2025/conf/edbt/paper-311.pdf
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
+        conference: 28th International Conference on Extending Database Technology (EDBT 2025)
       - title: A data platform for real-time monitoring and analysis of the brown marmorated stink bug in Northern Italy
         link: https://www.sciencedirect.com/science/article/pii/S1574954124002553
         authors: Forresi C., Gallinucci E., Golfarelli M., Maistrello L., Preti M., Vaccari G.
