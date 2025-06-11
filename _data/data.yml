@@ -180,7 +180,7 @@ publications:
     title: Publications
     intro: #|
     papers:
-      - title: ASSO: the Automated Schemaless Stream Overseer
+      - title: "ASSO: the Automated Schemaless Stream Overseer"
         link: https://openproceedings.org/2025/conf/edbt/paper-311.pdf
         authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
         conference: 28th International Conference on Extending Database Technology (EDBT 2025)
