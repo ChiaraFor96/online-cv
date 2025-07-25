@@ -164,7 +164,7 @@ skills:
             - __Computer Programming__: 
               - Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
               - __Programming Languages__: Java, Scala, Python, Kotlin, R, Matlab, C, C#, PLSQL, SPARQL, SQL.
-              - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
+              - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, SBT, Maven; __CI__: TravisCI.
             - __Web Development__: 
               - __Web servers__: Apache Tomcat, NGNIX.
               - __Content Managment Systems__: Joomla, Wordpress.
