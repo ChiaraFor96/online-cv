@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Chiara Forresi
-    tagline: Phd Candidate
+    tagline: Phd in Data Science and Computation | Data Engineer at Agile Lab
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: #+39 3296450649
     timezone: Italy Timezone
     citizenship:
-    website: www.unibo.it/sitoweb/chiara.forresi #do not add http://
+    website: #do not add http://
     linkedin: chiara-forresi-6b3839117
     xing: #
     github: ChiaraFor96
@@ -55,9 +55,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently working as a Data Engineer at Agile Lab while awaiting the defense of my PhD thesis. 
-      I specialize in data management and analysis in big data ecosystems, 
-      with a strong passion for information technology and innovative data solutions.
+      I am currently working as a Data Engineer at Agile Lab. 
+      I earned a PhD in Data Science and Computation at the University of Bologna, 
+      where I specialized in data management and analysis in big data ecosystems.
       
       __Fields of interest__: Data Engineering, Data Analytics, Business Intelligence
 
@@ -111,7 +111,7 @@ experiences:
         details: |
           I optimized query plans in multistores from a theoretical perspective with the Big Data Processing (BDP) group, under the supervision of Prof. [Bas Ketsman](https://www.basketsman.com/).
       - role: Reviewer for peer-review conferences and journals #(SEBD 2022, ADBIS 2022, DAWAK 2022/23, DOLAP 2023) and journal (Information Systems)
-        time: 2022 - today
+        time: 2022 - 2025
       - role: 150-hour part time (Switchboard activity and support to the Didactic Secretariat)
         time: 2019
         company: ERGO
@@ -148,10 +148,10 @@ skills:
             - __Big Data management and analysis__:
               - __Distributed filsystems__: HDFS.
               - __Distributed databases__: MongoDB, Cassandra, HBase.
-              - __Distributed execution frameworks__: Spark.
-              - __Ecosystem Management__: Cloudera CDH.
+              - __Distributed execution frameworks__: Spark, Databricks.
+              - __Ecosystem Management__: Cloudera CDP/CDH.
               - __System orchestration and administration__: Oozie, Hue, Airflow.
-              - __Cloud platforms__: AWS.
+              - __Cloud platforms__: AWS, Azure.
               - __Virtualization and containerization__: Docker, Kubernetes.
             - __Business Intelligence and Data Mining__:
               - __Conceptual modeling__: Indyco, StarUML.
@@ -215,6 +215,7 @@ publications:
 achievements:
   title: Achievements
   toolset: |
+    - On July 2025, I have successfully defended my PhD thesis titled **TECHNIQUES AND METHODOLOGIES TO SUPPORT DATA MANAGEMENT AND ANALYSIS IN BIG DATA ECOSYSTEMS**.
     - On August 2024, volunteered at the [Transumare Festival](https://www.transumarefest.com/).
     - On September 2023, presented "Streaming Approach to Schema Profiling" at ADBIS conference, Barcelona.
     - On July 2023, presented "On the optimization of query plans in multistores" at SEBD conference, Padua.
