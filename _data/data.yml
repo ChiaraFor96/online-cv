@@ -181,6 +181,14 @@ publications:
     title: Publications
     intro: #|
     papers:
+      - title: "Techniques and methodologies to support data management and analysis in big data ecosystems"
+        link: https://amsdottorato.unibo.it/id/eprint/12297/
+        authors: Forresi C.
+        conference: PhD Dissertation thesis
+      - title: "Self-adaptive analytical querying over schemaless data streams"
+        link: https://link.springer.com/article/10.1186/s40537-025-01251-1
+        authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
+        conference: Journal of Big Data (2025)
       - title: "ASSO: the Automated Schemaless Stream Overseer"
         link: https://openproceedings.org/2025/conf/edbt/paper-311.pdf
         authors: Forresi C., Francia M., Gallinucci E., Golfarelli M.
