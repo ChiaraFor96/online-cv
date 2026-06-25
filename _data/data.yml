@@ -175,7 +175,7 @@ skills:
           - __Languages & frameworks__: JavaScript, Node.js, Vue, PHP, CSS, HTML.
         - __Operating Systems__: Windows, Linux, macOS.
     - name: Driving license
-        info: B.
+      info: B.
 
 publications:
     title: Publications
